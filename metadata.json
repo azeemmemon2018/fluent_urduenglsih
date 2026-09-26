@@ -1,0 +1,7 @@
+{
+  "name": "BoloEnglish - AI English Roleplay & Speaking Coach for Urdu Speakers",
+  "description": "Master spoken English with 50 daily-life conversation scenarios, 20 interactive role-play characters, real-time speech feedback, and gentle bilingual coaching in Urdu and Roman Urdu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
